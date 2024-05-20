@@ -1,0 +1,11 @@
+Model Information:
+* title:	Salon sprzedazy taniej odziezy damskiej
+* source:	https://sketchfab.com/3d-models/salon-sprzedazy-taniej-odziezy-damskiej-6c71f44f754047bdac079fac542489b6
+* author:	Wólka Kosowska (https://sketchfab.com/wolkahurt.eu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Salon sprzedazy taniej odziezy damskiej" (https://sketchfab.com/3d-models/salon-sprzedazy-taniej-odziezy-damskiej-6c71f44f754047bdac079fac542489b6) by Wólka Kosowska (https://sketchfab.com/wolkahurt.eu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
